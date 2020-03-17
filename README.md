@@ -1,6 +1,6 @@
 # go-ini
 简单的读取ini配置文件，将配置信息保存在结构体中。
-Simple read ini file, the configuration information is stored in the struct.
+Simply read the ini file and save the configuration information in the a 'struct'.
 
 ### 使用前，你需要根据你的需求在`settings.go`中定义相关结构体用来保存你读取的信息：
 
@@ -45,7 +45,7 @@ func main() {
 
 
 
-### Simple read ini file, the configuration information is stored in the struct.
+### Simply read the ini file and save the configuration information in the a 'struct'.
 
 Before using it, you need to define the relevant `struct` in 'settings.go' according to your requirements to save the information:
 
